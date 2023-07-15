@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ravenous.github.io/static/css/main.79d8fa5d.css",
+    "main.js": "/ravenous.github.io/static/js/main.34742ff5.js",
+    "static/js/787.d43d5300.chunk.js": "/ravenous.github.io/static/js/787.d43d5300.chunk.js",
+    "static/media/background_search_desktop.jpg": "/ravenous.github.io/static/media/background_search_desktop.5d22362af7aa3252eb5b.jpg",
+    "index.html": "/ravenous.github.io/index.html",
+    "main.79d8fa5d.css.map": "/ravenous.github.io/static/css/main.79d8fa5d.css.map",
+    "main.34742ff5.js.map": "/ravenous.github.io/static/js/main.34742ff5.js.map",
+    "787.d43d5300.chunk.js.map": "/ravenous.github.io/static/js/787.d43d5300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d8fa5d.css",
+    "static/js/main.34742ff5.js"
+  ]
+}
